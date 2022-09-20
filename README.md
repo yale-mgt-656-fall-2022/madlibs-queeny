@@ -4,18 +4,16 @@ We're going to write some funny [Madlibs](https://en.wikipedia.org/wiki/Mad_Libs
 
 ## How To Setup This Activity
 
-1) Form a group with your neighbors. You should choose one person whose computer you will use. Only
+1) Kyle will put you into breakout rooms. You should choose one person who will share screen with others. Only
 one person needs to follow these instructions (but all should read them 🤣)
 
-2) Fork this starter repository on GitHub. Forking means to make a copy of the code but attach it to your own GitHub repository so that you can make changes.
+2) The person who is sharing screen in your breakout should fork this starter repository on GitHub.
+Forking means to make a copy of the code but attach it to your own GitHub repository so that you can make changes.
 Technically you are "cloning" the starter repo. GitHub calls this "forking" because they add some other
 bells and whistles on top. You should see a grey button at the top that says "fork"---that is what you want. If you need more information, look at [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
-4) Clone the repo to your development environment: your computer or Cloud9. Typically to clone
-you'd do something like `git clone YOUR-REPO-ADDRESS-HERE`. It's best to use the "ssh" clone URL
-instead of the "https" URL so that you don't have to keep typing your password. That will only
-be possible if you've got your ssh keys set up with GitHub already, which most people
-did Tuesday in class.
+4) Edit the code on GitHub CodeSpaces. If you're comfortable, you might prefer to work locally
+on your computer instead. In that case, just clone the repo to your computer.
  
 5) "Preview" the `index.html` file in Cloud9 to see the app working on your computer. 
 
