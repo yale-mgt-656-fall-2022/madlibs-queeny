@@ -7,9 +7,8 @@ We're going to write some funny [Madlibs](https://en.wikipedia.org/wiki/Mad_Libs
 1) Kyle will put you into breakout rooms. You should choose one person who will share screen with others. Only
 the person sharing their screen in your breakout room needs to follow these instructions (but all should read them 🤣)
 
-2) You should have a link, which is an invite to a GitHub Classroom assignment. The person who is sharing their
-screen should accept that invite. By accepting the assignment, you'll get a copy of Kyle's starter code. (Maybe you
-already did that.)
+2) Fork the starter repository on GitHub. Forking means to make a copy of the code but in your own GitHub repository so that you can make changes. Technically you are "cloning" the starter repo. GitHub calls this "forking" because they add some other
+bells and whistles on top. You should see a grey button at the top that says "fork"---that is what you want. If you need more information, look at [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/). **Make sure you fork the code to the yale-mgt-xxx-fall-2022 organization**, where "xxx" is 656 or 660. That way, you can use some paid features of GitHub 😀. Please give your fork a good name like "madlibs-sarah" if your name is Sarah.
 
 3) Take a look around at the files. Familiarize yourself where everything lives. 
 
