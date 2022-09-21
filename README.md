@@ -13,7 +13,7 @@ bells and whistles on top. You should see a grey button at the top that says "fo
 3) Take a look around at the files. Familiarize yourself where everything lives. 
 
 4) View your Madlibs web app.  If you want to view your app on Codespaces, consider using the built-in Python webserver in order to 
-serve your html/css/js. You can do that with `python3 -m http.server`. Or, if you're comfortable, you might prefer to work locally
+serve your html/css/js. You can do that with `python3 -m http.server` in the terminal. Or, if you're comfortable, you might prefer to work locally
 on your computer instead. In that case, just clone the repo to your computer and  you can open the `index.html` file
 in a browser (there's no need to run a webserver on your local computer).
 
