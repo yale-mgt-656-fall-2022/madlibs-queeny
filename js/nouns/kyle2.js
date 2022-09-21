@@ -1,5 +1,7 @@
 nouns = nouns.concat([
-    'Anjani',
-    'Kerwin',
-    'Judy'
+    'Harry Potter',
+    'Hermione Granger',
+    'Ron Weasely',
+    'Voldemort',
+    "Professor Dumbledore"
 ]);
